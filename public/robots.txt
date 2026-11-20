@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://glitchjsr.com/sitemap.xml
